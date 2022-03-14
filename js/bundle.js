@@ -427,7 +427,7 @@ function createTimeSeries2(array, div) {
     },
     bindto: div,
     title: {
-      text: 'Refugee Arrivals from Ukraine Over Time',
+      text: 'Refugee Arrivals from Ukraine Over Time !',
       position: 'upper-left',
     },
     data: {
